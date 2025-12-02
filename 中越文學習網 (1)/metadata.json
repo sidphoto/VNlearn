@@ -1,0 +1,7 @@
+{
+  "name": "中越文學習網",
+  "description": "A bidirectional learning platform for Taiwanese learning Vietnamese and Vietnamese learning Chinese, featuring AI-generated lessons and pronunciation practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
